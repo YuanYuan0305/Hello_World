@@ -4,3 +4,6 @@ for test
 
 
 modify something is ReadMe_Edit branch.
+
+
+2017.7.20  modify ver 2.0
